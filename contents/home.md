@@ -1,17 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![senli1073](https://img.shields.io/badge/Wzj-github-blue?logo=github)](https://github.com/Kagami1Jzj)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a master's student at the School of Mathematical Sciences of Anhui University.
 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: wzjAUST@163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., School of Mathematical Sciences, Anhui University.\
+B.E., School of Mathematics and Big Data, Anhui University of Technology.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Image Processing; Matrix Completion
 
