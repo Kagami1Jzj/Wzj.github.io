@@ -1,12 +1,11 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- 优秀研究生 (安徽大学), 2024.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- 优秀研究生标兵 (安徽大学), 2025.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- 优秀毕业生 (安徽大学), 2026.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
+- 一等奖学金 (安徽大学), 2023 & 2024.
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
+- 国家奖学金, 2020.
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
