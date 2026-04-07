@@ -11,7 +11,7 @@ Email: wzjAUST@163.com
 
 #### Education
 M.E., School of Mathematical Sciences, Anhui University.\
-B.E., School of Mathematics and Big Data, Anhui University of Technology.
+B.E., Mathematics and Big Data, Anhui University of Science and Technology.
 
 #### Research Interests
 Image Processing; Matrix Completion;Low-level Computer Vision; Deep Learning; Scientific Computing; Optimization Theory
